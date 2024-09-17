@@ -1,0 +1,12 @@
+gco_python.pyx
+setup.cfg
+setup.py
+gco_src/GCoptimization.cpp
+gco_src/LinkedBlockList.cpp
+gco_src/graph.cpp
+gco_src/maxflow.cpp
+pygco.egg-info/PKG-INFO
+pygco.egg-info/SOURCES.txt
+pygco.egg-info/dependency_links.txt
+pygco.egg-info/requires.txt
+pygco.egg-info/top_level.txt
